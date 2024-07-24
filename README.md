@@ -1,6 +1,6 @@
 # SQL Intermedio
 Este repositorio contiene todos los scripts SQL utilizados en la aplicación SQL Intermedio. 
-Autor: Byron Cuesta Quintero
+Autor: Byron Cuesta Quintero -
 Grupo de Investigación en Pensamiento Computacional - GIPCO
 Universidad Francisco de Paula Santander Ocaña
 
