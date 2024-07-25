@@ -3,3 +3,5 @@ Este repositorio contiene todos los scripts SQL utilizados en la aplicación SQL
 
 ## Configuración
 Copie el código que se encuentra dentro de los archivos ".sql" ubicados en las carpetas, péguelo en una Query tool de PgAdmin de Postgres. Estos archivos contienen el código necesario para crear y poblar el esquema y las tablas utilizadas en la aplicación SQL Intermedio.
+
+![Esquema Supermercado](url completa de la imagen)
